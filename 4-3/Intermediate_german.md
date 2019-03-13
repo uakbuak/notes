@@ -94,3 +94,38 @@ ihr steht
 
 sie/Sie stehen
 
+
+
+## 2019.03.13.
+
+- 교재 7페이지 3번 지도 시험 출제
+
+> ![1552453344006](assets/1552453344006.png)
+
+- 장소 관련 전치사(lokale Präpositionen)
+  - auf : 접촉면 o 위
+  - an : 곁, 붙어서 (접촉)
+  - neben : 근처에, 옆에
+  - vor : 앞에
+  - hinter : 뒤에
+  - zwischen : 사이에
+  - über : 접촉면 x 위
+  - unter : 아래에
+  - in : 안에
+
+- 각 과의 1, 2, 3, 4, 5(a, b), 9(b), Grammatik 을 보게 된다.
+
+###  2번 전치사 연습
+
+> ![1552456449356](assets/1552456449356.png)
+
+- 답 : an, über, unter, neben, vor, zwischen, auf, hinter, in
+
+### Zungenbrecher
+
+> Fischers Fritz fischt frische Fische
+>
+> Frische Fische fischt Fischers Fritz
+
+
+
