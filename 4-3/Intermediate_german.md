@@ -129,3 +129,81 @@ sie/Sie stehen
 
 
 
+## 2019.03.15.
+
+
+
+#### 본문
+
+Maria : Das ist Ottos Haus. - 여기가 오토네 집이야.
+
+Elena : Hey. Das ist aber groß! Wie viele Zimmer hat sein Haus denn? - 이봐, 엄청 크잖아! 대체 방이 몇 개나 있는 거야?
+
+Maria : Das weiß ich nicht. Warte mal! Hier vorne links ist die Küche, dahinter ist Ottos Arbeitszimmer und rechts ist sein Wohnzimmer. - 나도 몰라. 기다려 봐! 여기 앞쪽 왼편에 부엌이 있고, 그 뒤에 오토의 작업실이 있고, 오른쪽엔 거실이야.
+
+- dahinter => da(바로 앞 명사) + hinter(뒤에)
+
+Elena : Also drei Zimmer unten im Erdgeschoss. Und oben? - 그러니까 1층에는 방이 3개네. 윗층은?
+
+Maria : Im ersten Stock gibts zwei Schlafzimmer und zwei Kinderzimmer. - 2층에는 침실 두 개랑 애들 방 두 개가 있어.
+
+Elena : Vier oben plus drei unten ... das sind sieben ... sieben Zimmer! Boah, ganz schön viele! - 위에 넷에 아래 셋이면 ... 7개네.. 방이 7개! 우와, 엄청 많다!
+
+Maria : Da oben ist sein Balkon. Und da hinten ist seine Garage und sein Auto! 저 위쪽이 발코니야. 그리고 저 뒤에 차고랑 차가 있어!
+
+Elena : Wow, Ottos Auto sieht cool aus! 우와, 오토 차 멋있다.
+
+Maria : Und sein Haus? Wie findest du Ottos Haus? 집은? 오토네 집은 어떻게 생각해?
+
+Elena : Sein Haus finde ich schön. Aber seinen Garten mag ich nicht so. 집도 멋지다 생각해. 그렇지만 정원은 그저 그래.
+
+Maria : Warum nicht? 왜?
+
+Elena : Na ja, weißt du, da sind ja nicht mal Blumen! 글쎄, 뭐랄까, 꽃이 하나도 없잖아!
+
+Maria : Genau das hat meine Mama auch gesagt. Sie meint, hier fehlt 'ne Frau. 우리 엄마가 완전 똑같이 말했어. 엄마 말로는, 여기엔 여자가 없대.
+
+Elena : Was ist denn mit Ottos Frau? Ist er geschieden oder was? 오토 부인은 어쩌구? 이혼이라도 한거야 뭐야?
+
+Maria : Seine Frau? Otto hat keine Frau. 부인? 오토는 부인이 없어.
+
+Elena : Was? Aber von wem sind denn dann seine Kinder? 뭐라구? 그럼 대체 애들은 누구 애야?
+
+Maria : Seine Kinder? 애들?
+
+Elena : Na ja, da sind doch Zwei Kinderzimmer, oder? 글쎄, 애들 방이 두개나 있지 않았어?
+
+Maria : Ja, aber er hat noch keine Kinder. Er möchte gerne welche, aber ... 응, 그렇지만 애는 없어. 갖고 싶다고는 하는데...
+
+Elena : Okay! Dann braucht er jetzt eine Frau! Zum Beispiel seine Nachbarin. 그래! 그럼 오토에겐 여자가 필요해! 예를 들면 이웃집 여자!
+
+Maria : Vanilla? Meinst du? 바닐라? 진심이야?
+
+Elena : Die ist doch lieb, oder? 그래도 사랑스럽지 않니?
+
+Maria : Na ja, schon. 글쎄, 뭐.
+
+Elena : Und sieh mal, da! Vanillas Garten! Die vielen Blumen! 그리고 저기 봐! 바닐라네 정원! 꽃이 많아!
+
+Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 알아? ...
+
+
+
+#### 문법
+
+##### 명령문
+
+- 동사 어간 + (e)
+  - komm schon!
+  - geh weiter!
+  - wart**e** mal!
+
+
+
+##### es gibt + 4격 명사
+
+- ~이 있다, 존재하다.
+- es는 비인칭 주어로, 해석되지 않는다.
+
+
+
