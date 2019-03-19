@@ -207,3 +207,30 @@ Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 �
 
 
 
+## 2019.03.19.
+
+>  Ich verstehe nur Bahnhof
+
+- '난 도통 모르겠어.'
+- 1차 세계대전 때에 군인들에게 지시를 내리는데, 딴짓하고 안듣고 있다가 역 얘기만 나오면 집중하고 듣더라.
+
+### 3격을 쓰는구나!
+
+- An den Cafes fahren Sie vorbei
+
+- Unter der Brücke kommen Sie durch
+
+- 비분리전철과 함께 쓰이는 fahren/kommen이 운동성을 띔에도 불구하고 3격과 결합한다.
+
+> Hierzu sagt man:
+>
+> Wo = Ort
+>
+> Wohin = Richtung
+>
+>
+> Der "Ort", unter dem sie durchkommen, ist hier die statische Brücke.  
+
+- 한국어 문법으론 다리 아래'로' 이니까 4격을 쓸 것 같은데, 지나오는 시점의 화자가 다리 아래'에' 있으니까 그렇게 사용하는 것 같다.
+- 좀더 단순하게 보자면, 분리전철이 이미 운동성을 내포하고 있기 때문에(?) 중복해서 쓰지 않는 것일 수도 있겠다.
+
