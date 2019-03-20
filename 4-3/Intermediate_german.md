@@ -133,7 +133,7 @@ sie/Sie stehen
 
 
 
-#### 본문
+### 본문
 
 Maria : Das ist Ottos Haus. - 여기가 오토네 집이야.
 
@@ -189,9 +189,9 @@ Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 �
 
 
 
-#### 문법
+### 문법
 
-##### 명령문
+#### 명령문
 
 - 동사 어간 + (e)
   - komm schon!
@@ -200,7 +200,7 @@ Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 �
 
 
 
-##### es gibt + 4격 명사
+#### es gibt + 4격 명사
 
 - ~이 있다, 존재하다.
 - es는 비인칭 주어로, 해석되지 않는다.
@@ -234,3 +234,13 @@ Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 �
 - 한국어 문법으론 다리 아래'로' 이니까 4격을 쓸 것 같은데, 지나오는 시점의 화자가 다리 아래'에' 있으니까 그렇게 사용하는 것 같다.
 - 좀더 단순하게 보자면, 분리전철이 이미 운동성을 내포하고 있기 때문에(?) 중복해서 쓰지 않는 것일 수도 있겠다.
 
+
+
+## 2019.03.20.
+
+### Wie komme ich zum Goetheplatz?
+
+- Ich möchte zum Götheplatz : 괴테 광장으로 가고싶습니다.
+- Das ist nicht weit von hier : 여기서 멀지 않아요.
+- Also, passen Sie auf : 그러니까, 잘 들어보세요.
+- An der Ecke nach rechts : 모퉁이에서 오른쪽으로 도세요.
