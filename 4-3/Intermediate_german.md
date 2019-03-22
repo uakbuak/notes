@@ -244,3 +244,50 @@ Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 �
 - Das ist nicht weit von hier : 여기서 멀지 않아요.
 - Also, passen Sie auf : 그러니까, 잘 들어보세요.
 - An der Ecke nach rechts : 모퉁이에서 오른쪽으로 도세요.
+
+
+
+## 2019.03.22.
+
+### 규칙동사
+
+- 동사의 과거형 : Stamm + 'te'
+- 동사의 과거분사형 : 'ge' + Stamm + 't'
+
+- sagen / sagte / gesagt : 말하다
+- spielen / spielte / gespielt : 놀다
+- hören / hörte / gehört : 듣다
+- brauchen / brauchte / gebraucht : 필요로 하다
+- meinen / meinte / gemeint : 의미하다, 뜻하다
+
+
+
+### 현재완료
+
+- haben + p.p.
+  - 대부분의 타동사가 haben과 결합한다.
+  - 과거 시제를 대체한다.
+- sein + p.p.
+  - 자동사 중 일부는 sein과 결합한다.
+  - 움직임이나 장소 이동을 나타내는 자동사 (kommen, gehen, fahren, fliegen, reisen)
+  - 상태변화 동사 (aufstehen, sterben, passieren, einschlafen)
+  - 예외 동사 (sein, bleiben, werden)
+
+
+
+### denn
+
+- Was ist denn mit Ottos Frau? 도대체 오토의 부인이 어쨌길래?
+- denn은 의문문에서 '도대체'의 의미로, 질문을 강조한다.
+- Denn er hat keine Frau.
+- 또한 denn은 '왜냐하면'의 의미를 가진 병렬 접속사로도 쓰인다. cf) da, weil
+
+
+
+### kein
+
+- Otto hat keine Frau.
+- kein/소유대명사의 어미는 단수 앞에서 부정관사랑 동일하고, 복수 앞에서 정관사와 동일하다.
+
+
+
