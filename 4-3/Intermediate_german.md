@@ -291,3 +291,36 @@ Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 �
 
 
 
+## 2019.03.27.
+
+### 본문
+
+> #### 5.
+>
+> Ich wohne in Hatzenbühl, das ist ein Ort in der Pfalz. Zum Rhein sind es von hier nur ein paar Kilometer. Aber den Fluss kann ich leider nicht sehen, nur unser Rathaus.
+>
+> #### 6.
+>
+> Ich wohne zurzeit in Zürich. Der Fluss da unten, das ist die Limmat. Hinten links sehen Sie die ETH, die Eidgenössische Technische Hochschule und in der Mitte, hinter der Kirche, das ist die Universität. Dort studiere ich.
+
+- Hatzenbühl은 독일의 유명한 담배재배지
+- Rathaus 시청 ... Bezirksamt 구청/동사무소
+- Universität 종합대학 ... Hochschule 대학
+- Vater Rhein, Mutter Elbe
+- Vaterland, Muttersprache
+
+> #### In Giesing wohnt das Leben
+>
+> Seit einem halben Jahr lebe ich in München, in meinem Lieblingsviertel Giesing. Giesing ist ganz normal. Giesing ist nicht toll. Giesing ist nicht ,in'. Und genau das gefällt mir so gut. Hier leben Alte und Junge zusammen, Arbeiter und Studenten, Deutsche und Ausländer. Der Stadtteil gehört uns allen und hier finden wir auch alles: Es gibt Läden, Werkstätten, viele Kneipen und Restaurants. Ich wohne mit meiner Familie in der Tegernseer Landstraße. Von hier aus kommen wir überall sehr gut zu Fuß hin: Der Kindergarten ist gleich um die Ecke, zur Schule ist es auch nicht weit, mein Friseur ist im Nachbarhaus und zur Post sind es keine 50 Meter. Ich sag's ja: Giesing ist ganz normal und das finde ich super so!
+
+- die Alte : 형용사의 명사화 (정관사 + 형용사 + 정관사형 어미)
+
+- 모든 것들 ... alles => 단수(중성)/복수
+
+  
+
+### 채팅 용어?
+
+- ㅋㅋ = gg(giggles), fg(freches grinsen), kicher(kichern)
+- ^^ = :)
+- Gute N8 = Gute Nacht
