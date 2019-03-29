@@ -324,3 +324,16 @@ Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 �
 - ㅋㅋ = gg(giggles), fg(freches grinsen), kicher(kichern)
 - ^^ = :)
 - Gute N8 = Gute Nacht
+
+
+
+## 2019.03.29.
+
+- das Haus : 집
+- das Wohnhaus : 주택
+- die Wohnung : 아파트, 빌라
+- der Wohnort : 주소
+- der Student(in) : (여)남학생
+- der Kommilitone(x-in) : (여)남학우
+- der Vermieter : 임대인
+- der Mieter : 임차인
