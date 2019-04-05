@@ -350,3 +350,19 @@ Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 �
 >
 > **Martin** : Habt ihr etwas verstanden? Nein? Salome hat gesagt: Einen lieben Gruß an alle Deutschlerner! Das ist der Zytglogge, der Zeitglockenturm. Der Turm ist sehr alt- 800 Jahre. Die Uhr ist 500 Jahre alt. Na, wie gefallen euch die Uhr und der Turm? Bern und Berlin haben etwas gemeinsam. Wisst ihr, was? Richtig, die Städtenamen fangen beide mit ,B' an. Und seht mal: So sehen die Wappen aus. Die Berliner haben einen Bären und die Berner haben einen Bären. Wollt ihr mal einen Bären sehen? Dann sind wir hier am Bärengraben genau richtig. Nett, nicht wahr? So jetzt habt ihr schon mal was von meiner Stadt gesehen. Na, wie gefällt euch Bern? Vielleicht kommt ihr mal in die Schweiz? Dann kommt doch auch mal hierher, nach Bern und seht euch alles selbst an. Bis dann! Uf Wiederluege! Tschüs!
 
+
+
+## 2019.04.05.
+
+> Liebe Vanilla,
+>
+> Ich bin umgezogen. Meine wohnung ist 40m2 groß und die Monatsmiete kostet 350E. Sie hat eine Küche, ein Bad, ein Arbeitszimmer, ein Schlafzimmer, und ein Wohnzimmer. Die Küche ist toll. Sie ist sehr groß. Leider hat das Bad kein Fenster.
+>
+> Herzliche Grüße,
+>
+> C. H.
+
+- umziehen : 이사가다 (zog...um / umgezogen)
+- kommen : 오다 (kam / gekommen)
+- die Größe : 면적
+
