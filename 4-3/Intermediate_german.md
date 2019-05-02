@@ -366,3 +366,102 @@ Maria : Du, weißt du, was ich glaube? ... 너, 내가 무슨 생각하는지 �
 - kommen : 오다 (kam / gekommen)
 - die Größe : 면적
 
+
+
+## 2019.05.02.
+
+
+
+### WAS IST EUROPA? Über die Wirtschaft
+
+Von Stephan Schmauke
+
+ Achtung! In diesem Text kommen keine Zahlen vor und keine wirtschaftlichen „Fakten“, man erwarte hier weder Statistiken noch gar Prognosen. Ein paar *Gedanken* kommen vor. 
+
+These: „Europa“ ist nicht „der Westen“. Zumindest in einer Hinsicht nicht, in der wirtschaftlichen nämlich. Zwar herrscht in beiden Gebilden ein dem Namen nach identisches Wirtschaftssystem: das kapitalistische. (Von der „Planwirtschaft“ des 1989 zusammengebrochenen Ostblocks reden wir hier nicht.)
+
+Der Kapitalismus wird in den USA anders gelebt als in Europa (und natürlich gibt es entsprechend auch andere Denkweisen, Begründungen und Theorien über das Wirtschaftssystem hüben und drüben).
+
+
+
+#### Kapitalismus: rhein und neo-amerikanisch
+
+Der „rheinische“ Kapitalismus – „rheinischer“ Kapitalismus deswegen, weil Albert das Modell eines regulierten Kapitalismus vornehmlich an der in Bonn erfundenen „sozialen Marktwirtschaft“ exemplifiziert; ob er nicht besser das skandinavische (schwedische) Modell genommen hätte, mag dahingestellt bleiben – 
+der *regulierte* Kapitalismus jedenfalls legt Wert auf die staatliche *Mit*regulierung der sogenannten „gemischt handelbaren Güter“: Löhne und Gehälter werden z.T. tarifrechtlich ausgehandelt, dem Immobilienmarkt wird ein sozialer Wohnungsbau an die Seite gestellt, der öffentlicher Nahverkehr ist Sache kommunaler Verkehrsbetriebe, das Gesundheitswesen wird zum größten Teil durch die gesetzliche Krankenversicherung finanziert, Kindergärten, Schulen und Universitäten sind großteils kommunal bzw. durch die Länder finanziert, die Medienlandschaft hat einen öffentlichen Rundfunk usw. usw.
+
+Im neo-amerikanischen Modell neigt man dazu, all diese Dimensionen dem „freien Markt“ - und *nur* dem freien Markt - zu überlassen. (Wie sehr diese Denkweise, dass der „Markt“ alles alleine regeln könne, in den USA verbreitet ist, sieht man z.B. an den Schwierigkeiten, die Obama damit hat, eine allgemeine gesetzliche Krankenversicherung populär zu machen; eine in Europa schon lang existierende Errungenschaft 
+
+
+
+#### New Deal
+
+Gleichwohl gab es aber auch Zeiten, in denen in den USA der „freie Markt“ nicht alles war.
+
+In den 1930er Jahren gab es umfassende Sozialreformen, mit denen der damalige Präsident Roosevelt der amerikanischen Wirtschaft aus der Weltwirtschaftskrise helfen wollte. „New Deal“ nannte er das. Damals war die Meinung, staatliche Interventionen könnten helfen, wo es der „freie Markt“ allein nicht schaffe, durchaus angesehen.
+
+Das lag auch an dem weltweiten Ruf, den der Ökonom John Meynard Keynes (1883-1946) zu jener Zeit genoss.
+
+
+
+#### Keynesianismus außer Mode
+
+Hayek wechselte 1950 an die University of Chicago, wo er auf Gleichgesinnte traf, u.a. auf Milton Friedman (1912-2006), der 1980 den amerikanischen Fernsehzuschauern in einer zehnteiligen Fernsehserie erklärte, warum soziale und politische Probleme nur durch den freien Markt gelöst werden könnten und durch nichts sonst. Hayek war nun Gott - und Friedman sein Prophet. Der „Marktradikalismus“ oder „Neoliberalismus“ hatte sich in Ökonomenkreisen durchgesetzt.
+
+Der „Keynesianismus“ war out.
+
+Aber wie immer hinkten die Theoretiker den gesellschaftlichen Umbrüchen, die neue Politikstile nach sich ziehen, bloß hinterher. Die Ölkrise der 1970er ernüchterte alle, die an ein ungebremstes Wirtschaftswachstum ad ultimo geglaubt hatten. Ein neue Typus von Politikern war dabei, das Ruder zu übernehmen: In den USA Ronald Reagan, in Großbritannien Margaret Thatcher. 
+
+
+
+#### Ronald Reagan / Margaret Thatcher
+
+Reagan war früher Filmschauspieler gewesen, sein bekanntester Film: „*Bedtime for Bonzo*“ (1951), in welchem er einen Psychologieprofessor spielte, der einem Schimpansen namens Bonzo die neuesten Errungenschaften der Kinder- und Jugendpädagogik der 50er Jahre zukommen lassen will. Zeit ins Bett zu gehen, Bonzo!... Der Titel des letzten Albums der stilprägenden amerikanischen Polit-Punkband Dead Kennedys spielt darauf an: *Bedtime for Democracy*. Darauf der großartige, „Bonzo“ mit „Rambo“ konfundierende Song *Rambozo*, the Clown. 
+
+Auch Thatcher bekam ihr Fett weg: 1976 bezeichnete sie ein Journalist der sowjetischen Nachrichtenagentur TASS ob ihres hartherzigen Regierungsstils als „eiserne Lady“ - ein Spitzname, der haften blieb und den Thatcher selbst zum Kompliment umdeutete. „Eiserne Lady“ war der Titel eines Films von Phyllida Lloyd aus dem Jahr 2011, der sich der Lebensgeschichte Margaret Thatchers widmet. Thatcher wurde gespielt von Meryl Streep, die dafür 2012 den Oscar bekam.
+
+
+Man sieht: Präsidenten mit Schimpansen zu vergleichen oder Premierministerinnen lächerlich machen zu wollen, geht immer nach hinten los; obwohl sich meines Wissens weder die Dead Kennedys noch der TASS-Journalist Ermittlungen wegen „Majestätsbeleidigung“ gefallen lassen mussten; sowas funktioniert nur in Schrumpelkl_tenhausen.
+
+Die „Reagonomics“ und die Freunde des „Thatcherism“ dominierten jedenfalls den Politikstil der 1980er Jahre, und vor allem letztere verbreiteten den Neoliberalismus in Europa. 
+
+
+
+#### Begründung der Ökonomie als Wissenschaft
+
+Warum aber ersteres, Begründung der Ökonomie als Wissenschaft?
+
+Weil, soweit bekannt, niemand vor Adam Smith theorieähnliche Gedanken zum Wirtschaftssystem einer staatlich organisierten Gesellschaft schriftlich fixiert hat. Alles, was es vor ihm gab, waren mehr oder weniger literarische Tipps für die Reichtumsvermehrung bestimmter, eng begrenzter Interessengruppen: Lieber Fürst soundso, wenn du die Erträge deiner Ländereien steigern willst, dann tue dieses-und-jenes... Anders formuliert: Vor Adam Smith gab es nur betriebswirtschaftliche Ratgeberliteratur, seit Adam Smith gibt es wissenschaftliche Nationalökonomie.
+
+Das hat vor allem damit zu tun, das sich die Vorstellung von Staatlichkeit während der Lebensspanne von Adam Smith geändert hatte: Weg vom Absolutismus, hin zu einer parlamentarischen Monarchie (in Großbritannien) bzw. zur Republik (in Frankreich).
+
+In England war die Entscheidung über das Wohl und Wehe der absoluten Monarchie bereits ein Jahrhundert vor der Lebenszeit von Adam Smith entschieden worden, im Englischen Bürgerkrieg (1642-49). Dessen Nachwirkungen werden im allgemeinen damit beschrieben, dass sie zur „Festigung des Parlamentarismus“ beigetragen hätten. Sei wie es sei, jedenfalls ist seitdem der Begriff des „Commonwealth“ in der Welt.
+
+Deswegen konnte Adam Smith ein Buch über den „Wealth of Nations“, den „Wohlstand der Nationen“ schreiben: Weil der „Wohlstand des Landesfürsten“ (mit seinen Schatzkammern) kein angesagtes Thema mehr war. Entsprechend war es an der Zeit, eine ökonomische Theorie zu entwerfen, die sich kritisch gegen die oben bereits erwähnte Ratgeberliteratur abhob**.**
+
+
+
+#### ***Merkantilismus***
+
+Mirabeau hatte 1763 von einem „merkantilen System“ gesprochen, das die Wirtschaftsbeziehungen der europäischen Staaten im Zeitalter des Absolutismus kennzeichne. Smith griff dieses Wort auf.
+
+
+Grundgedanke des später sogenannten „Merkantilismus“ ist die vollständige Direktionsgewalt des Fürsten über den Staatshaushalt, den er als seine Privatschatulle ansieht, gemäß dem Ludwig XIV. zugeschriebenen geflügelten Worte „L’État, c’est moi!“
+
+Das absolutistische „Repräsentationsbedürfnis“ (das sich vor allem im Bau von Schlössern niederschlug und in der Aufstellung von Armeen: Schlösser, die die Kollegen Nachbarfürsten neidisch und Armeen, die ihnen Angst machten) lässt sich letztlich nur befriedigen durch das Kleinhalten bzw. Kleinmachen der Nachbarn. Folglich ging es den fürstlichen Anlageberatern um eine „aktive Außenhandelsbilanz“, d.h. um eine möglichst hohe Exportquote und eine niedrige Importquote.
+
+Die Förderung des staatlichen Reichtums ging also immer zu Lasten der Nachbarstaaten, weshalb dieses Art europäischen Wirtschaftens einen permanenten Kriegszustand herbeiführte. Das wäre jetzt für Adam Smith nicht weiter schlimm gewesen. Gegen Kriege schützt man sich einfach durch eine starke Armee (und Marine).
+
+
+
+#### ***Konkurrenz***
+
+Als Ökonomen interessierte in vielmehr ein anderer Effekt des „Merkantilismus“: Durch die strenge Kontrolle des Außenhandels, etwa durch hohe Einfuhrzölle, gab es wenig zwischenstaatliche Konkurrenz. Englische Handwerker mussten nicht fürchten, durch holländische Erzeugnisse verdrängt zu werden, denn die kamen ja ohnehin nicht auf den einheimischen Markt. Was auf den ersten Blick ganz angenehm klingt, verhinderte aber mittel- bis langfristig Innovationen - und behinderte somit den wirtschaftlichen Fortschritt insgesamt.
+
+**„Konkurrenz belebt das Geschäft!“**, dieser Satz könnte eine theoretische Einsicht von Adam Smith gewesen sein. Nun war Adam Smith aber nicht nur Theoretiker, sondern von Beruf Zollkommissar, der die Aufrechterhaltung eben jener Einfuhrregelungen - wie z.B. die sogenannte „Navigationsakte“ -, die er in der *Theorie* ablehnte, in der *Praxis* überwachte.
+
+
+
+#### 출처
+
+<https://fes-online-akademie.de/was-ist-europa-wirtschaft/>
+
