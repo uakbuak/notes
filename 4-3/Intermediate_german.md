@@ -464,4 +464,3 @@ Als Ökonomen interessierte in vielmehr ein anderer Effekt des „Merkantilismus
 #### 출처
 
 <https://fes-online-akademie.de/was-ist-europa-wirtschaft/>
-
