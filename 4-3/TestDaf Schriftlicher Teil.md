@@ -63,3 +63,16 @@ Die Studenten, die aufgrund von Studienzwecken umziehen müssen, brauchen dann
 Studentenwohnheime. Allgemein sind Wohngemeinschaften in Korea nicht so üblich und beliebt.
 Meiner Meinung nach fühlen sich die Koreaner dabei nicht wohl mit anderen Leuten zusammen zu
 wohnen. 
+
+
+
+## Mit Erfolg Zum TestDaf - ModelTest
+
+In der folgenden Grafik geht es um das Studium nach Deutschland. Die erste Grafik beschreibt, wie sich die Anzahl der Studierenden aus dem Ausland in Deutschland vom Jahr 1997 bis 2006 entwickelt hat. Diese kann man in 3 Teilen analysieren. In der ersten Phase(von 1997 bis 2000) ist die Anzahl von etwa 100,000 um 13,000 relativ stetig zugenommen. Jeweils ist die Entwicklung danach rascher geworden. Die Anzahl vom Jahr 2001 ist im Jahr 2004 um 60,000 auf 180,000 hochgestiegen. In der letzten Phase bleibt die Anzahl aber noch mal stetig. Im Jahr 2006 beträgt die Anzahl gegen 190,000. Insgesamt ist der Trend klar, dass es immer mehr ausländische Studenten in Deutschland gibt. Der Anteil liegt bei fast 10% aller Studierenden.
+Als Herkunftsländer steht China mit großem Abstand an der ersten Stelle. Jeder Siebte dieser Studenten kommt aus China. Danach kommen Bulgarien, Polen, Russland u.s.w. Außer China lagen die meisten Länder in Osteuropa. Auffallend ist, dass viele Studierenden auch aus Afrika kommen, zum Beispiel aus Marokko und Kamerun.
+
+Ob Deutschland mehr ausländische Studenten einnehmen soll, ist kontroversal. Einerseits ist es vorteilhaft, wenn Deutschland mehr möglichkeiten anbietet, im Rahmen der Globalisierung. Anderseits geht es nicht um die Quantität, sondern um die Qualität. Es ist klar, dass jedes Jahr die Anzahl der ausländischen Studierenden sich erhöht. Aber wenn es keine geeignete Infrastruktur gibt, kann es nicht mehr eine optimale Möglichkeit für die Studierenden sein. Es muss ein festes System geben, das bei den verschiedenen Aufgaben Hilfe geben kann. Zum Beispiel gibt es schon sehr viele chinesichen Studenten in Deutschland, die möglicherweise viele kulturelle Schwierigkeiten in Deutschland hätten. Es braucht zeit, damit die Menschen aus verschiedenen Ländern sich in Deutschland harmonisch einmischen können.
+
+Trotzdem ist es fast unmöglich, die Anzahl der ausländischen Studenten zu begrenzen. Und wenn es mehr Menschen gibt, die aus gleichem Land kommen, hat man auch mehr Chance, da sich erfolgreich einzuwohnen. 
+Meiner Meinung nach soll die Ausbildung für jeden, zwar möglichst viele Menschen zur Verfügung stehen. Es ist nicht demokratisch, wenn man die Studierenden, die in Deutschland weiter lernen wollem, nicht einlässt. Jeder hätte seinen eigenen Grund und seine eigene Entscheidung getroffen. Deswegen soll das Land natürlich diese Leute unterstützen.
+Bei uns in Korea ist Deutschland auch eine sehr attraktive Option für die Studierenden. Aber viele zögern sich wegen des sprachlichen Behindernisses. Trozt der Sprache kommen schon viele Koreaner nach Deutschland, um weiter Literatur, Musik, und Bau zu studieren. Der Vorteil dabei ist, dass dieses Studium in Deutschland sich ganz lange entwickelt hat. Ich bin der Meinung, wenn es mehr Sprachkurse für die ausländische Studierenden gäbe, würde noch mehr Koreaner sich entschließen, in Deutschland weiter zu studieren.
